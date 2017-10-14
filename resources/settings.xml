@@ -195,6 +195,7 @@
         <setting id="provider.liomenoi" type="bool" label="LIOMENOI" default="true" />
     </category>
     <category label="32346">
+        <setting id="tm.user" type="text" label="32309" default="6c992347c18547e5fc8f8d0762902b1c" visible="false" />
         <setting type="lsep" label="Moviesplanet.is" />
         <setting id="moviesplanet.user" type="text" label="32303" default="" />
         <setting id="moviesplanet.pass" type="text" option="hidden" label="32307" default="" />
